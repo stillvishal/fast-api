@@ -1,0 +1,42 @@
+{
+    "P001": {
+        "name": "Rahul Sharma",
+        "age": 28,
+        "gender": "Male",
+        "blood_group": "B+",
+        "city": "Delhi",
+        "diagnosis": "Type 2 Diabetes"
+    },
+    "P002": {
+        "name": "Priya Verma",
+        "age": 34,
+        "gender": "Female",
+        "blood_group": "O+",
+        "city": "Noida",
+        "diagnosis": "Hypertension"
+    },
+    "P003": {
+        "name": "Aman Gupta",
+        "age": 45,
+        "gender": "Male",
+        "blood_group": "AB+",
+        "city": "Gurugram",
+        "diagnosis": "Asthma"
+    },
+    "P004": {
+        "name": "Sneha Kapoor",
+        "age": 22,
+        "gender": "Female",
+        "blood_group": "A+",
+        "city": "Ghaziabad",
+        "diagnosis": "Anemia"
+    },
+    "P005": {
+        "name": "Arjun Singh",
+        "age": 61,
+        "gender": "Male",
+        "blood_group": "O-",
+        "city": "Faridabad",
+        "diagnosis": "Coronary Artery Disease"
+    }
+}
