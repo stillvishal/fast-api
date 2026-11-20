@@ -22,7 +22,10 @@ def view():
     data = load_data()
     return data
 
-
+@app.get("/view/{patient_id}")
+def view_patient(patient_id):
+    data = load_data()
+    
 
 
 
